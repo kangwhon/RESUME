@@ -1,3 +1,4 @@
+![who am i](/자기소개.png)
 # 자기소개
 #### 이름 : 이강훈
 
@@ -51,4 +52,4 @@
 [google]: http://google.com
 [무신사]: https://www.musinsa.com
 [넷플릭스]: https://www.netflix.com/kr
-[
+
