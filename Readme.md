@@ -45,6 +45,7 @@
 |임베디드시스템|10/19|오후 1시|
 |선형대수|10/20|오전 11시|
 |파이썬|10/20|오후 1시|
+|오픈소스|10/21|오전 11시|
 
 [CyberCampus]: https://smartlead.hallym.ac.kr
 [hallym]: https://www.hallym.ac.kr
